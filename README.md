@@ -1,1 +1,7 @@
-# React Webpack Babel Project Setup
+## React Webpack Babel Project Setup
+
+### Features
+- React 16  
+- Webpack 4  
+- Babel 7  
+- Hot Module Replacement
