@@ -7,8 +7,8 @@
 - Hot Module Replacement
 
 ### Installation
-- git clone git@github.com:hapumee/react-webpack-babel-setup.git
+- <code>git clone git@github.com:hapumee/react-webpack-babel-setup.git</code>
 - cd react-webpack-babel-setup
 - npm install
 - npm start
-- on browser: http://localhost:8080
+- on browser: <code>http://localhost:8080</code>
